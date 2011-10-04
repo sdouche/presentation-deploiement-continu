@@ -1,0 +1,11 @@
+{
+  "name": "Déploiement continu",
+  "description": "Déploiement continu",
+  "sections": [
+    {"section":"title"}, 
+    {"section":"me"},
+    {"section":"intro"},
+    {"section":"rex"},
+    {"section":"conclusion"}
+  ]
+}
